@@ -1,4 +1,4 @@
-# 🧠 Awesome GPU Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome GPU Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for mastering GPU engineering from architecture and kernel programming to large-scale distributed systems and AI acceleration.
 
