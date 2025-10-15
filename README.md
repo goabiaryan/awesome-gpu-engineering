@@ -48,7 +48,8 @@
 
 ## ⚙️ Systems and Multi-GPU Engineering
 
-- **[NCCL](https://developer.nvidia.com/nccl)** — Multi-GPU communication primitives.  
+- **[NCCL](https://developer.nvidia.com/nccl)** — Multi-GPU communication primitives. 
+- **[vLLM](https://github.com/vllm-project/vllm)** - Inference and serving engine for LLMs
 - **[Horovod](https://github.com/horovod/horovod)** — Distributed deep learning across GPUs.  
 - **NVLink & PCIe Topology** — GPU interconnects and bandwidth optimization.  
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.  
@@ -59,9 +60,9 @@
 
 - [CUDA C++ Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)  
 - [Triton Tutorials (OpenAI)](https://triton-lang.org/main/getting-started/tutorials/index.html)  
-- [Udacity: Parallel Programming with CUDA](https://www.udacity.com/course/intro-to-parallel-programming--cs344)  
-- [MIT 6.889: GPU Programming and Architecture](https://ocw.mit.edu/)  
-- [CMU 15-418/618: Parallel Computer Architecture & Programming](http://15418.courses.cs.cmu.edu/)  
+- [CUDA in 12 hours by FreeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe_4)  and [Video Repo](https://github.com/infatoshi/cuda-course)
+- [Stanford CS149, Fall 2025 Parallel Computing Course Fall 2025](https://gfxcourses.stanford.edu/cs149/fall25/)  
+- [CMU 15-418/618: Parallel Computer Architecture & Programming](https://www.cs.cmu.edu/~418/)  
 
 
 ## 📄 Research Papers and Articles
