@@ -1,6 +1,6 @@
 # 🧠 Awesome GPU Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of resources for mastering GPU engineering — from architecture and kernel programming to large-scale distributed systems and AI acceleration.
+> A curated list of resources for mastering GPU engineering from architecture and kernel programming to large-scale distributed systems and AI acceleration.
 
 ---
 
@@ -139,5 +139,4 @@ Inspired by:
 
 ---
 
-> “GPU engineering is not about writing kernels. It’s about understanding how systems work.” 
-> — *Abi Aryan, [Model Craft](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)*
+> “GPU engineering is not about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)*
