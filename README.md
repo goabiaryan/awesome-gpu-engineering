@@ -6,18 +6,14 @@
 
 ## 📘 Foundational Books
 
-- **Programming Massively Parallel Processors: A Hands-on Approach** — *David B. Kirk & Wen-mei W. Hwu*  
-  The canonical introduction to CUDA, memory hierarchies, and parallel patterns.
-- **GPU Pro / GPU Zen Series** — *Wolfgang Engel*  
-  Real-world graphics and compute programming techniques.
+- **Programming Massively Parallel Processors: A Hands-on Approach** — *David B. Kirk & Wen-mei W. Hwu* 
+  The canonical introduction to CUDA, memory hierarchies, and parallel patterns. *[Amazon](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)*
 - **CUDA by Example** — *Jason Sanders & Edward Kandrot*  
-  A practical introduction to CUDA for beginners.
+  A practical introduction to CUDA for beginners. *[Amazon](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)*
+- **The Ultra-Scale Playbook: Training LLMs on GPU Clusters** - Hugging Face *[Web Version](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)*
 - **Heterogeneous Computing with OpenCL 2.0** — *Benedict Gaster et al.*  
   Cross-platform perspective on GPU compute.
-- **Parallel Programming and Optimization with GPUs** — *Udacity + NVIDIA*  
-  Covers GPU architecture and performance optimization concepts.
 
----
 
 ## 💻 GPU Programming Frameworks
 
@@ -29,7 +25,6 @@
 - **[Vulkan Compute](https://www.khronos.org/vulkan/)** — Low-level GPU compute API.  
 - **[Metal Performance Shaders](https://developer.apple.com/metal/)** — Apple’s GPU framework.
 
----
 
 ## 🧩 Optimization and Performance
 
@@ -41,7 +36,6 @@
 - **[OpenAI Triton](https://triton-lang.org/)** — Python DSL for writing high-performance GPU kernels.  
 - **Roofline Model** — Analytical model to reason about compute/memory bottlenecks.
 
----
 
 ## 🧠 Architecture and Low-Level Design
 
@@ -53,7 +47,6 @@
   - Shared memory and cache optimization  
   - Warp divergence and thread occupancy  
 
----
 
 ## ⚙️ Systems and Multi-GPU Engineering
 
@@ -63,7 +56,6 @@
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.  
 - **[Ray Train](https://docs.ray.io/en/latest/train/index.html)**, **[DeepSpeed](https://github.com/microsoft/DeepSpeed)**, **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** — Large-scale GPU orchestration frameworks.
 
----
 
 ## 🧪 Tutorials and Courses
 
@@ -73,7 +65,6 @@
 - [MIT 6.889: GPU Programming and Architecture](https://ocw.mit.edu/)  
 - [CMU 15-418/618: Parallel Computer Architecture & Programming](http://15418.courses.cs.cmu.edu/)  
 
----
 
 ## 📄 Research Papers and Articles
 
@@ -88,7 +79,6 @@
 - *[A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/abs/2203.09040)*
 - *[Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception](https://www.youtube.com/watch?v=e54BVwcdJ4Y)*
 
----
 
 ## 🧰 Tools and Utilities
 
@@ -101,7 +91,6 @@
 
 - **[LeetGPU](https://leetgpu.com/)**
 - **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
----
 
 ## 🧑‍🔬 GPU for AI & ML
 
@@ -110,8 +99,6 @@
 - **TensorFlow XLA Compiler** — Ahead-of-time GPU graph compilation.  
 - **FlashAttention**, **FlashConv** — Kernel optimization techniques for transformers.  
 - **DeepSpeed**, **FSDP**, **Megatron-LM** — Distributed training systems.  
-
----
 
 ## 🧱 GPU Systems Design
 
@@ -131,13 +118,9 @@
 Contributions welcome!  
 Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a pull request.
 
----
-
 ## 🧾 License
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — feel free to share and adapt with attribution.
-
----
 
 ## ⭐ Acknowledgements
 
