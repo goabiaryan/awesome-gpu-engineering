@@ -11,6 +11,7 @@
 - **CUDA by Example** — *Jason Sanders & Edward Kandrot*  
   A practical introduction to CUDA for beginners. *[Amazon](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)*
 - **The Ultra-Scale Playbook: Training LLMs on GPU Clusters** - Hugging Face *[Web Version](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)*
+- 
 
 
 ## 💻 GPU Programming Frameworks
@@ -32,7 +33,7 @@
 - **[CUTLASS](https://github.com/NVIDIA/cutlass)** — CUDA templates for linear algebra subroutines.  
 - **[TensorRT](https://developer.nvidia.com/tensorrt)** — High-performance deep learning inference.  
 - **[OpenAI Triton](https://triton-lang.org/)** — Python DSL for writing high-performance GPU kernels.  
-- **Roofline Model** — Analytical model to reason about compute/memory bottlenecks.
+- **[Roofline Model](https://jax-ml.github.io/scaling-book/)** — Analytical model to reason about compute/memory bottlenecks.
 
 
 ## 🧠 Architecture and Low-Level Design
@@ -50,6 +51,7 @@
 
 - **[NCCL](https://developer.nvidia.com/nccl)** — Multi-GPU communication primitives. 
 - **[vLLM](https://github.com/vllm-project/vllm)** - Inference and serving engine for LLMs
+- **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** - Simplify abstractions for distributed training
 - **[Horovod](https://github.com/horovod/horovod)** — Distributed deep learning across GPUs.  
 - **NVLink & PCIe Topology** — GPU interconnects and bandwidth optimization.  
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.  
