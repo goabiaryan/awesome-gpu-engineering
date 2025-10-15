@@ -66,6 +66,7 @@
 - [CMU 15-418/618: Parallel Computer Architecture & Programming](https://www.cs.cmu.edu/~418/)
 - [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
 - [GPU MODE video lecture series](https://www.youtube.com/@GPUMODE/videos)
+- [Red Hat vLLM Office Hours video series](https://www.youtube.com/playlist?list=PLbMP1JcGBmSHxp4-lubU5WYmJ9YgAQcf3)
 
 
 
