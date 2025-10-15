@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Awesome GPU Engineering</title>
+  <link rel="icon" href="https://awesome.re/badge.svg">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      line-height: 1.6;
+    }
+    code, pre { background: #f6f8fa; padding: 2px 4px; border-radius: 4px; }
+    a { color: #0366d6; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    h1, h2, h3 { border-bottom: 1px solid #eee; padding-bottom: 0.3rem; }
+    img { vertical-align: middle; }
+  </style>
+</head>
+<body>
+  <div id="content">Loading...</div>
+
+  <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+  <script>
+    // Fetch and render the README.md
+    fetch('README.md')
+      .then(response => response.text())
+      .then(markdown => {
+        const converter = new showdown.Converter({ tables: true });
+        document.getElementById('content').innerHTML = converter.makeHtml(markdown);
+      });
+  </script>
+</body>
+</html>
