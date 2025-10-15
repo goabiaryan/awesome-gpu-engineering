@@ -67,7 +67,11 @@
 - [Triton Tutorials (OpenAI)](https://triton-lang.org/main/getting-started/tutorials/index.html)  
 - [CUDA in 12 hours by FreeCodeCamp](https://www.youtube.com/watch?v=86FAWCzIe_4)  and [Video Repo](https://github.com/infatoshi/cuda-course)
 - [Stanford CS149, Fall 2025 Parallel Computing Course Fall 2025](https://gfxcourses.stanford.edu/cs149/fall25/)  
-- [CMU 15-418/618: Parallel Computer Architecture & Programming](https://www.cs.cmu.edu/~418/)  
+- [CMU 15-418/618: Parallel Computer Architecture & Programming](https://www.cs.cmu.edu/~418/)
+- [MIT 6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+- [GPU MODE video lecture series](https://www.youtube.com/@GPUMODE/videos)
+- [Red Hat vLLM Office Hours video series](https://www.youtube.com/playlist?list=PLbMP1JcGBmSHxp4-lubU5WYmJ9YgAQcf3)
+
 
 
 ## 📄 Research Papers and Articles
