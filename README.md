@@ -68,9 +68,8 @@
 
 - *[Optimization techniques for GPU programming](https://dl.acm.org/doi/pdf/10.1145/3570638)* - Hijma, Pieter, et al.
 - *[Efficient Multi-GPU Programming in Python: Reducing Synchronization and Access Overheads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11186485)* - Oden, Lena, and Klaus Nölp
-- *[Evolving GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9623445&casa_token=Zknb-Go77Y4AAAAA:03tRVI5oLoyDZMx-UZZiWp9h7JRTc-UHNmiHykq2MZWBKNFBwjxEUpuddkX54Z246I6gjDUpdw&tag=1)* — Kirk & Hwu  
-- *[Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision](https://arxiv.org/abs/2205.11913)*
-- 
+- *[Evolving GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9623445&casa_token=Zknb-Go77Y4AAAAA:03tRVI5oLoyDZMx-UZZiWp9h7JRTc-UHNmiHykq2MZWBKNFBwjxEUpuddkX54Z246I6gjDUpdw&tag=1)* — Kirk & Hwu
+- *[Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision](https://arxiv.org/abs/2205.11913)* - Wei Gao et al
 - *[Optimizing Machine Learning Models with CUDA: A Comprehensive Performance Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11064558)*  - Niteesh, L., and M. B. Ampareeshan
 - NVIDIA Research Papers on *[Model Parallelism](https://dl.acm.org/doi/pdf/10.1145/3458817.3476209?casa_token=p3epEa_Z4xEAAAAA:fZgVzYD2uMH5NcafdBN9g7EgIbESqB7WsHjL0X6LU2zdm6EdgQkMyIFk0yZAfWGl1o3PeUSB4xhg)* and *[Megatron-LM](https://arxiv.org/pdf/1909.08053)*  
 - *[GPU Virtualization and Multi-Tenant Scheduling](https://dl.acm.org/doi/pdf/10.1145/3068281?casa_token=bbU9Dvrt3vsAAAAA:jxP-NNGr8GEmjOng-EFlb1Rd6wVSQAXg65GTK1jDPlGIkGjNIirMWkDZcjnTw0xDZmLGZ489LwHX)*  
