@@ -51,6 +51,10 @@
 - **[NCCL](https://developer.nvidia.com/nccl)** — Multi-GPU communication primitives. 
 - **[vLLM](https://github.com/vllm-project/vllm)** - Inference and serving engine for LLMs
 - **[Hugging Face Accelerate](https://github.com/huggingface/accelerate)** - Simplify abstractions for distributed training
+- **[SGLang](https://github.com/sgl-project/sglang)**
+- **[Prime Intellect](https://github.com/PrimeIntellect-ai/prime-cli)**
+- **[TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)**
+- **[TGI by Hugging Face](https://huggingface.co/docs/text-generation-inference/en/index)**
 - **[Horovod](https://github.com/horovod/horovod)** — Distributed deep learning across GPUs.  
 - **NVLink & PCIe Topology** — GPU interconnects and bandwidth optimization.  
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.  
@@ -99,16 +103,17 @@
 - **FlashAttention**, **FlashConv** — Kernel optimization techniques for transformers.  
 - **DeepSpeed**, **FSDP**, **Megatron-LM** — Distributed training systems.  
 
-## 🧱 GPU Systems Design
+## 🧱 GPU Systems Design Topics For Interview Prep
 
+- FlashAttention and PagedAttention
+- Matmul Operations
 - GPU scheduling algorithms and runtime systems.  
 - Memory oversubscription and unified memory models.  
 - Resource allocation in GPU clusters.  
-- Topics:
-  - GPU virtualization  
-  - Kernel fusion and graph execution  
-  - Dataflow optimization  
-  - Persistent threads model  
+- GPU virtualization  
+- Kernel fusion and graph execution  
+- Dataflow optimization  
+- Persistent threads model  
 
 ---
 
@@ -130,6 +135,7 @@ Inspired by:
 
 ---
 
-## Newsletters:
+## Quotes
 
-> “GPU engineering is not just about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)
+> “GPU engineering is not just about writing kernels. It’s about understanding how systems work.”  — [Model Craft](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)
+

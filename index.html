@@ -90,5 +90,33 @@
         document.getElementById('content').innerHTML = converter.makeHtml(markdown);
       });
   </script>
+
+  <script>
+  // Fetch and render the README.md
+  fetch('README.md')
+    .then(response => response.text())
+    .then(markdown => {
+      const converter = new showdown.Converter({ tables: true });
+      document.getElementById('content').innerHTML = converter.makeHtml(markdown);
+
+      // Inject email capture after README content
+      const emailSection = document.createElement('div');
+      emailSection.style.margin = '40px 0';
+      emailSection.style.padding = '20px';
+      emailSection.style.border = '1px solid #EEE';
+      emailSection.style.background = 'white';
+      emailSection.style.textAlign = 'center';
+      emailSection.innerHTML = `
+        <h2>Get the GPU Interview Guide</h2>
+        <p>I'm compiling an exclusive GPU Engineering interview guide. To receive it straight in your inbox once it's done.</p>
+        <iframe src="https://modelcraft.substack.com/embed" 
+                width="100%" 
+                height="320" 
+                style="max-width:480px; border:1px solid #EEE; background:white;" 
+                frameborder="0" scrolling="no"></iframe>
+      `;
+      document.getElementById('content').appendChild(emailSection);
+    });
+    </script>
 </body>
 </html>
