@@ -11,8 +11,6 @@
 - **CUDA by Example** — *Jason Sanders & Edward Kandrot*  
   A practical introduction to CUDA for beginners. *[Amazon](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)*
 - **The Ultra-Scale Playbook: Training LLMs on GPU Clusters** - Hugging Face *[Web Version](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)*
-- **Heterogeneous Computing with OpenCL 2.0** — *Benedict Gaster et al.*  
-  Cross-platform perspective on GPU compute.
 
 
 ## 💻 GPU Programming Frameworks
