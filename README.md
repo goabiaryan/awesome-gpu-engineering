@@ -77,11 +77,16 @@
 
 ## 📄 Research Papers and Articles
 
-- *Evolving GPU Architecture* — Kirk & Hwu  
-- *Understanding and Mitigating Control Divergence on GPUs*  
-- *Memory Coalescing Techniques for Modern GPU Architectures*  
-- NVIDIA Research Papers on *Model Parallelism* and *Megatron-LM*  
-- *GPU Virtualization and Multi-Tenant Scheduling*  
+- *[Optimization techniques for GPU programming](https://dl.acm.org/doi/pdf/10.1145/3570638)* - Hijma, Pieter, et al.
+- *[Efficient Multi-GPU Programming in Python: Reducing Synchronization and Access Overheads](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11186485)* - Oden, Lena, and Klaus Nölp
+- *[Evolving GPU Architecture](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9623445&casa_token=Zknb-Go77Y4AAAAA:03tRVI5oLoyDZMx-UZZiWp9h7JRTc-UHNmiHykq2MZWBKNFBwjxEUpuddkX54Z246I6gjDUpdw&tag=1)* — Kirk & Hwu  
+- *[Deep Learning Workload Scheduling in GPU Datacenters: Taxonomy, Challenges and Vision](https://arxiv.org/abs/2205.11913)*
+- 
+- *[Optimizing Machine Learning Models with CUDA: A Comprehensive Performance Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11064558)*  - Niteesh, L., and M. B. Ampareeshan
+- NVIDIA Research Papers on *[Model Parallelism](https://dl.acm.org/doi/pdf/10.1145/3458817.3476209?casa_token=p3epEa_Z4xEAAAAA:fZgVzYD2uMH5NcafdBN9g7EgIbESqB7WsHjL0X6LU2zdm6EdgQkMyIFk0yZAfWGl1o3PeUSB4xhg)* and *[Megatron-LM](https://arxiv.org/pdf/1909.08053)*  
+- *[GPU Virtualization and Multi-Tenant Scheduling](https://dl.acm.org/doi/pdf/10.1145/3068281?casa_token=bbU9Dvrt3vsAAAAA:jxP-NNGr8GEmjOng-EFlb1Rd6wVSQAXg65GTK1jDPlGIkGjNIirMWkDZcjnTw0xDZmLGZ489LwHX)*  
+- *[A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/abs/2203.09040)*
+- *[Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception](https://www.youtube.com/watch?v=e54BVwcdJ4Y)*
 
 ---
 
@@ -92,6 +97,10 @@
 - **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim)**, **[Accel-Sim](https://accel-sim.github.io/)** — GPU simulation frameworks.  
 - **Perfetto**, **Nsight UI** — Visual profilers for tracing GPU workloads.
 
+### Learning Tools
+
+- **[LeetGPU](https://leetgpu.com/)**
+- **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
 ---
 
 ## 🧑‍🔬 GPU for AI & ML
@@ -133,10 +142,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 ## ⭐ Acknowledgements
 
 Inspired by:  
-- [Awesome HPC](https://github.com/awesome-hpc/awesome-hpc)  
+- [Awesome HPC](https://github.com/trevor-vincent/awesome-high-performance-computing)  
 - [Awesome Computer Architecture](https://github.com/aalhour/awesome-computer-architecture)  
-- [Awesome CUDA](https://github.com/Erkaman/awesome-cuda)
+- [Awesome CUDA](https://github.com/coderonion/awesome-cuda-and-hpc)
 
 ---
 
-> “GPU engineering is not about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)*
+## Newsletters:
+
+> “GPU engineering is not just about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)*
