@@ -133,4 +133,4 @@ Inspired by:
 
 ## Newsletters:
 
-> “GPU engineering is not just about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)*
+> “GPU engineering is not just about writing kernels. It’s about understanding how systems work.”  — [Model Craft Newsletter](https://modelcraft.substack.com/p/fundamentals-of-gpu-engineering)
