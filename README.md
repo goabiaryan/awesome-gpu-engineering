@@ -20,7 +20,8 @@
 - **[ROCm](https://github.com/RadeonOpenCompute/ROCm)** — AMD’s open compute stack.  
 - **[OpenCL](https://www.khronos.org/opencl/)** — Cross-platform parallel computing standard.  
 - **[SYCL / oneAPI](https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html)** — Intel’s C++ abstraction for heterogeneous compute.  
-- **[Vulkan Compute](https://www.khronos.org/vulkan/)** — Low-level GPU compute API.  
+- **[Vulkan Compute](https://www.khronos.org/vulkan/)** — Low-level GPU compute API.
+- *[Kompute](github.com/komputeproject/kompute)** — Higher level general purpose GPU compute framework built on Vulkan.
 - **[Metal Performance Shaders](https://developer.apple.com/metal/)** — Apple’s GPU framework.
 
 
