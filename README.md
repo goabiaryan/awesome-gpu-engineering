@@ -86,7 +86,6 @@
 - *[GPU Virtualization and Multi-Tenant Scheduling](https://dl.acm.org/doi/pdf/10.1145/3068281?casa_token=bbU9Dvrt3vsAAAAA:jxP-NNGr8GEmjOng-EFlb1Rd6wVSQAXg65GTK1jDPlGIkGjNIirMWkDZcjnTw0xDZmLGZ489LwHX)*  
 - *[A Survey of Multi-Tenant Deep Learning Inference on GPU](https://arxiv.org/abs/2203.09040)*
 - *[Efficient Performance-Aware GPU Sharing with Compatibility and Isolation through Kernel Space Interception](https://www.youtube.com/watch?v=e54BVwcdJ4Y)*
-- *[GPU Glossary](https://modal.com/gpu-glossary)* - A dictionary of terms related to programming GPUs
 
 
 ## 🧰 Tools and Utilities
@@ -100,6 +99,8 @@
 
 - **[LeetGPU](https://leetgpu.com/)**
 - **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
+- **[GPU Glossary](https://modal.com/gpu-glossary)** - A dictionary of terms related to programming GPUs
+
 
 ## 🧑‍🔬 GPU for AI & ML
 
