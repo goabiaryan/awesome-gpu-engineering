@@ -60,6 +60,7 @@
 - **NVLink & PCIe Topology** — GPU interconnects and bandwidth optimization.  
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.  
 - **[Ray Train](https://docs.ray.io/en/latest/train/index.html)**, **[DeepSpeed](https://github.com/microsoft/DeepSpeed)**, **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** — Large-scale GPU orchestration frameworks.
+- **[Iris by AMD](https://github.com/ROCm/iris)** - open-source multi-GPU programming framework built for compiler-visible performance and optimized multi-GPU execution.
 
 
 ## 🧪 Tutorials and Courses
