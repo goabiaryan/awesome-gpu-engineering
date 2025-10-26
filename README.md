@@ -7,7 +7,7 @@
 ## 📘 Foundational Books
 
 - **Programming Massively Parallel Processors: A Hands-on Approach** — *David B. Kirk & Wen-mei W. Hwu* 
-  The canonical introduction to CUDA, memory hierarchies, and parallel patterns. *[Amazon](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)* ![*Abi's Concise Notes*](/awesome-gpu-engineering/notes/Abi's PMPP Notes.pdf)
+  The canonical introduction to CUDA, memory hierarchies, and parallel patterns. *[Amazon](https://www.amazon.com/Programming-Massively-Parallel-Processors-Hands/dp/0323912311)* [*Abi's Concise Notes*](https://github.com/goabiaryan/awesome-gpu-engineering/blob/main/notes/Abi's%20PMPP%20Notes.pdf)
 - **CUDA by Example** — *Jason Sanders & Edward Kandrot*  
   A practical introduction to CUDA for beginners. *[Amazon](https://www.amazon.com/CUDA-Example-Introduction-General-Purpose-Programming/dp/0131387685)*
 - **The Ultra-Scale Playbook: Training LLMs on GPU Clusters** - Hugging Face *[Web Version](https://huggingface.co/spaces/nanotron/ultrascale-playbook?section=high-level_overview)*
