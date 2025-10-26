@@ -40,11 +40,10 @@
 
 - **[NVIDIA Ampere Whitepaper](https://developer.nvidia.com/ampere-architecture)**  
 - **[AMD RDNA & CDNA Architectures](https://gpuopen.com/learn/)**  
-- Topics:
-  - SIMT execution and warp scheduling  
-  - Memory hierarchy and coalescing  
-  - Shared memory and cache optimization  
-  - Warp divergence and thread occupancy  
+- SIMT execution and warp scheduling  
+- Memory hierarchy and coalescing  
+- Shared memory and cache optimization  
+- Warp divergence and thread occupancy  
 
 
 ## ⚙️ Systems and Multi-GPU Engineering
