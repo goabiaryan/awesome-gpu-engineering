@@ -100,6 +100,7 @@
 - **[LeetGPU](https://leetgpu.com/)**
 - **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
 - **[GPU Glossary](https://modal.com/gpu-glossary)** - A dictionary of terms related to programming GPUs
+- **[Deploybase](https://deploybase.ai/)** - Track real-time GPU and LLM pricing across all cloud and inference providers.
 
 
 ## 🧑‍🔬 GPU for AI & ML
