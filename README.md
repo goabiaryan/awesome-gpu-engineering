@@ -4,6 +4,7 @@
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration with GPU-aware resource management. MIT licensed.
 ## 📘 Foundational Books
 
 - **Programming Massively Parallel Processors: A Hands-on Approach** — *David B. Kirk & Wen-mei W. Hwu* 
