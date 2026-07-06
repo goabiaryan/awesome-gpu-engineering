@@ -36,6 +36,7 @@
 - **[OpenAI Triton](https://triton-lang.org/)** — Python DSL for writing high-performance GPU kernels.
 - **[Helion](https://helionlang.com)** - A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - **[Roofline Model](https://jax-ml.github.io/scaling-book/)** — Analytical model to reason about compute/memory bottlenecks.
+- **[kernelmeter](https://github.com/nuemaan/kernelmeter)** — Roofline benchmarking with correctness checks, occupancy calculator, and GPU comparison from spec-sheet-tested data.
 
 
 ## 🧠 Architecture and Low-Level Design
