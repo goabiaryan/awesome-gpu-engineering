@@ -97,6 +97,7 @@
 - **cuda-memcheck**, **compute-sanitizer** — Memory and correctness tools.
 - **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim)**, **[Accel-Sim](https://accel-sim.github.io/)** — GPU simulation frameworks.
 - **[Ingero](https://github.com/ingero-io/ingero)** — eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs and host kernel events to build causal chains explaining GPU latency. <2% overhead, production-safe.
+- **[flameox](https://github.com/morluto/flameox)** — Profiling and optimization toolkit for agents that coordinates PyTorch Profiler and Nsight Systems evidence to investigate GPU kernels and inference workloads.
 - **Perfetto**, **Nsight UI** — Visual profilers for tracing GPU workloads.
 
 ### Learning Tools
