@@ -61,6 +61,7 @@
 - **NVLink & PCIe Topology** — GPU interconnects and bandwidth optimization.
 - **[GPUDirect RDMA](https://developer.nvidia.com/gpudirect)** — Zero-copy GPU networking.
 - **[Ray Train](https://docs.ray.io/en/latest/train/index.html)**, **[DeepSpeed](https://github.com/microsoft/DeepSpeed)**, **[Megatron-LM](https://github.com/NVIDIA/Megatron-LM)** — Large-scale GPU orchestration frameworks.
+- **[SuperL8](https://github.com/jajmangold/superl8)** — Hand-written INT8 FlashAttention-2 and GEMM kernels for Volta GPUs using the dp4a instruction. 46 TOP/s INT8 on CMP 100-210 where tensor cores are firmware-disabled.
 - **[Iris by AMD](https://github.com/ROCm/iris)** - open-source multi-GPU programming framework built for compiler-visible performance and optimized multi-GPU execution.
 
 
@@ -115,6 +116,7 @@
 - **TensorFlow XLA Compiler** — Ahead-of-time GPU graph compilation.
 - **FlashAttention**, **FlashConv** — Kernel optimization techniques for transformers.
 - **DeepSpeed**, **FSDP**, **Megatron-LM** — Distributed training systems.
+- **[SuperL8](https://github.com/jajmangold/superl8)** — Hand-written INT8 FlashAttention-2 and GEMM kernels for Volta GPUs using the dp4a instruction. 46 TOP/s INT8 on CMP 100-210 where tensor cores are firmware-disabled.
 
 ## 🧱 GPU Systems Design Topics For Interview Prep
 
