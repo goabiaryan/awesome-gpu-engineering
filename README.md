@@ -106,6 +106,7 @@
 - **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
 - **[GPU Glossary](https://modal.com/gpu-glossary)** - A dictionary of terms related to programming GPUs
 - **[Mojo🔥 GPU Puzzles](https://puzzles.modular.com)**
+- **[PixelBank GPU Programming](https://pixelbank.dev/collections/gpu-programming/triton-programming)** - Triton and Numba CUDA kernel problems graded on real GPUs (16 free, rest paid)
 
 
 ## 🧑‍🔬 GPU for AI & ML
