@@ -98,6 +98,7 @@
 - **[GPGPU-Sim](https://github.com/gpgpu-sim/gpgpu-sim)**, **[Accel-Sim](https://accel-sim.github.io/)** — GPU simulation frameworks.
 - **[Ingero](https://github.com/ingero-io/ingero)** — eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs and host kernel events to build causal chains explaining GPU latency. <2% overhead, production-safe.
 - **Perfetto**, **Nsight UI** — Visual profilers for tracing GPU workloads.
+- **[hwcheck](https://github.com/VoltageGPU/hwcheck)** — Read-only bash check that a rented NVIDIA GPU machine matches its listing (model, count, VRAM, CPU, RAM, disk), plus a 10-minute acceptance test for 8-GPU nodes (NVLink topology, P2P, NCCL all-reduce, load, ECC, Xid).
 
 ### Learning Tools
 
