@@ -99,6 +99,8 @@
 - **[Ingero](https://github.com/ingero-io/ingero)** — eBPF-based GPU causal observability agent. Traces CUDA Runtime/Driver APIs and host kernel events to build causal chains explaining GPU latency. <2% overhead, production-safe.
 - **Perfetto**, **Nsight UI** — Visual profilers for tracing GPU workloads.
 
+- **[Denpex](https://denpex.com)** - GPU log diagnostics, NVIDIA Xid error reference, and NCCL rank failure triage for CUDA, PyTorch, and vLLM workloads.
+
 ### Learning Tools
 
 - **[Tensara](https://gpuengineering.com)**
