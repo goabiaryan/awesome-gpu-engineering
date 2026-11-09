@@ -106,6 +106,7 @@
 - **[GPU MODE Discord](https://discord.gg/FnjEVAhW)**
 - **[GPU Glossary](https://modal.com/gpu-glossary)** - A dictionary of terms related to programming GPUs
 - **[Mojo🔥 GPU Puzzles](https://puzzles.modular.com)**
+- **[TensorTonic](https://www.tensortonic.com/study-plans/cuda-basics)** - CUDA and Triton kernel problems checked and timed on real GPUs in the browser
 
 
 ## 🧑‍🔬 GPU for AI & ML
